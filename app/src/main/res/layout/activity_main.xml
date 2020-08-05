@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="350dp"
         android:background="#543A7E"
-        android:text="Pindah Ke Linear2" />
+        android:text="@string/pindah_ke_linear2" />
 
     <Button
         android:id="@+id/btnrelative"
@@ -22,6 +22,6 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="250dp"
         android:background="@color/colorAccent"
-        android:text="Pindah ke Relative" />
+        android:text="@string/pindah_ke_relative" />
 
 </RelativeLayout>

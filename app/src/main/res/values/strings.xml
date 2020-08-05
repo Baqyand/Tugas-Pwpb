@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">LinearToRelative</string>
+    <string name="bama_qyandija_deandra">Bama Qyandija Deandra</string>
+    <string name="nama">Nama</string>
+    <string name="bama_qyandija_d">Bama Qyandija D.</string>
+    <string name="alamat">Alamat</string>
+    <string name="cicalengka">Cicalengka</string>
+    <string name="sekolah">Sekolah</string>
+    <string name="smkn_4_bandung">SMKN 4 BANDUNG</string>
+    <string name="kembali">Kembali</string>
+    <string name="next">Next</string>
+    <string name="pindah_ke_linear2">Pindah Ke Linear2</string>
+    <string name="pindah_ke_relative">Pindah ke Relative</string>
+    <string name="password">Password</string>
+    <string name="ulangi_password">Ulangi Password</string>
+    <string name="daftar">Daftar</string>
 </resources>

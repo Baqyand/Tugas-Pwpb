@@ -11,7 +11,7 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="262dp"
-        android:src="@mipmap/ic_launcher"
+        android:src="@drawable/aa"
         android:background="#847322"
         />
 
@@ -25,43 +25,40 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Nama" />
+            android:text="@string/nama" />
 
         <EditText
             android:id="@+id/edt_length"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:inputType="numberDecimal"
             android:lines="1" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Password" />
+            android:text="@string/password" />
 
         <EditText
             android:id="@+id/edt_width"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:inputType="numberDecimal"
             android:lines="1" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Ulangi Password" />
+            android:text="@string/ulangi_password" />
 
         <EditText
             android:id="@+id/edt_height"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:inputType="numberDecimal"
             android:lines="1" />
     </TableLayout>
     <Button
-        android:id="@+id/btn_calculate"
+        android:id="@+id/btn_daftar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Daftar" />
+        android:text="@string/daftar" />
 
 </LinearLayout>
